@@ -9,3 +9,4 @@ This repository holds data and code used to generate figures for the paper entit
   Crater depth profiles  are from Suo+24, Icarus 408, 115816. doi:10.1016/j.icarus.2023.115816, arXiv:2308.01876.
 * ejectamass_bins.npz
   Raw data of ejecta mass measurements in bins
+* Sean2.csv raw data of mass measurements
